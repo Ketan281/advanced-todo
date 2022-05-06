@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "title": "ketan",
+      "userID": "ptweb3",
+      "isCompleted": true,
+      "id": 2
+    },
+    {
+      "title": "react",
+      "userID": "ptweb3",
+      "isCompleted": true,
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "id":"1",
+      "userName":"ketan281"
+    }
+  ]
+}
